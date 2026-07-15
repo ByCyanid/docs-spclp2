@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-ge0eic.dcmasudchudirv.ai/sitemap.xml
